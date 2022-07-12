@@ -3,6 +3,7 @@
 <p>This website is built for people with fitness goals such as losing fat, getting leaner, staying toned, and bulking. It focuses more on the weight-lifting aspect of fitness. </p>
 <br>
 <h1>Wireframes</h1>
+![IMG_6969](https://user-images.githubusercontent.com/101905331/178508808-3788274b-e064-4ffd-9d05-0eccbbec6fda.JPG)
 <ul>
     <li>The App component is going to pass down data to the Login and Goal component.
 </li>
