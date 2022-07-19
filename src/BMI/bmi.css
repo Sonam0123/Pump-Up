@@ -1,0 +1,15 @@
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin: 0 auto;
+    display: block;
+}
+.bmiTotal{
+    margin-top: 1rem;
+    background-color: rgb(35, 31, 31);
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+}

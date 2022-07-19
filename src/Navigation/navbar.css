@@ -1,0 +1,35 @@
+.fullNav {
+  width: 100%;	
+  z-index: 1000;
+  background-color: rgb(55, 46, 46);
+  grid-row: 1;	
+
+}
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  width: 65%;
+  margin: 0 auto;
+}
+h3 {
+  font-family: 'Racing Sans One', cursive;
+  color: rgb(197, 101, 57);
+}
+.logoutBtn{
+  background-color: rgb(197, 101, 57);
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  height: 50px;
+}
+.profileBtn{
+  background-color: rgb(197, 101, 57);
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  height: 50px;
+  margin-right: 5px;
+}

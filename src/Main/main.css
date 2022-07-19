@@ -1,0 +1,50 @@
+.mainPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: rgb(42, 36, 36);
+    color: white;
+    width: 100vw;
+
+}
+.secondDiv{
+    background-color: rgb(55, 46, 46);
+    padding-left: 5rem;
+    padding-right: 5rem;
+    border-radius: 20px;
+
+}
+.fitTitle{
+
+    font-family: 'Racing Sans One', cursive;
+}
+.mainPageTitle{
+    font-size: 50px;
+    font-family: 'Racing Sans One', cursive;
+    color: rgb(197, 101, 57);
+    text-align: center;
+}
+.fitTitle{
+    text-align: center;
+    margin-top: 2rem;
+}
+.pictures{
+    width: 340px;
+    height: 340px;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(197, 101, 57);
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    height: 50px;
+}
+.links :hover{
+    transform: scale(1.009);
+    color: orange;
+}
