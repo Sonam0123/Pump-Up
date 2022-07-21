@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './bmi.css';
+import './bmi.scss';
 
 
 
